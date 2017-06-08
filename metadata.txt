@@ -7,11 +7,11 @@
 # This file should be included when you package your plugin.# Mandatory items:
 
 [general]
-name=testplugin
+name=foobar
 qgisMinimumVersion=2.0
 description=to test automated plugin deploy
 version=0.1
-author=Frank Nord
+author=Franzi Nord
 email=f@nord.de
 
 about=This plugin exists for testing purposes only.
