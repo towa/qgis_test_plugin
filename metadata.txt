@@ -9,9 +9,10 @@
 [general]
 name=foobar
 qgisMinimumVersion=2.0
+qgisMaximumVersion=2.9
 description=to test automated plugin deploy
-version=0.1
-author=Franzi Nord
+version=0.23
+author=Hagbard Celine
 email=f@nord.de
 
 about=This plugin exists for testing purposes only.
