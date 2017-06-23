@@ -7,11 +7,11 @@
 # This file should be included when you package your plugin.# Mandatory items:
 
 [general]
-name=foobar
-qgisMinimumVersion=2.0
-qgisMaximumVersion=2.9
+name=aaathats3asTest
+qgisMinimumVersion=2.0.0
+qgisMaximumVersion=2.99.0
 description=to test automated plugin deploy
-version=0.23
+version=0.42
 author=Hagbard Celine
 email=f@nord.de
 
