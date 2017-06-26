@@ -7,11 +7,11 @@
 # This file should be included when you package your plugin.# Mandatory items:
 
 [general]
-name=aaathats3asTest
+name=testPlugin
 qgisMinimumVersion=2.0.0
 qgisMaximumVersion=2.99.0
-description=to test automated plugin deploy
-version=0.5
+description=Still testing automated plugin deploy
+version=0.6
 author=Hagbard Celine
 email=f@nord.de
 
